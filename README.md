@@ -175,7 +175,7 @@ For optimal performance:
 - Dynamic Asset Loading using `import.meta.glob`
 
 
-# 📄 License
+# License
 
 This project is intended for educational and organizational use for BMC IIITDM Jabalpur.
 
