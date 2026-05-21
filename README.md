@@ -1,4 +1,23 @@
-# BMC — Business and Management Club  
+# Business and Management Club Website
+
+The Official Website of Business and Management Club
+
+---
+
+## About The Project
+
+This repository contains the source code for the official BMC website.
+
+The project is being developed collaboratively by club members to create user-friendly platform for managing club activities and showcasing events.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+# BMC — Business and Management Club
+
 ### IIITDM Jabalpur
 
 A premium cinematic website built for the **Business and Management Club (BMC)** of **IIITDM Jabalpur**.
@@ -7,7 +26,7 @@ The website is designed with a modern futuristic aesthetic inspired by premium A
 
 ---
 
-#  Features
+# Features
 
 - Premium cinematic UI
 - Glassmorphism navigation bar
@@ -18,10 +37,10 @@ The website is designed with a modern futuristic aesthetic inspired by premium A
 - Responsive modern design
 - Auto-loading gallery system
 - Vite-powered frontend architecture
-  
-----
 
-#  Project Structure
+---
+
+# Project Structure
 
 ```bash
 src/
@@ -55,7 +74,7 @@ src/
 
 ---
 
-#  Installation & Setup
+# Installation & Setup
 
 ## 1. Clone the repository
 
@@ -89,7 +108,7 @@ npm run build
 
 ---
 
-#  Uploading Gallery Photos
+# Uploading Gallery Photos
 
 To add photos to the **Gallery Section**:
 
@@ -112,7 +131,7 @@ No HTML editing is required.
 
 ---
 
-#  Uploading Upcoming Events
+# Uploading Upcoming Events
 
 To add images/posters for the **Upcoming Events Section**:
 
@@ -133,7 +152,7 @@ The events section automatically updates dynamically.
 
 No manual editing required.
 
-----
+---
 
 # Responsive Design
 
@@ -156,7 +175,7 @@ The project includes:
 
 ---
 
-#  Performance Notes
+# Performance Notes
 
 For optimal performance:
 
@@ -166,17 +185,10 @@ For optimal performance:
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript (ES Modules)
 - Vite
 - Dynamic Asset Loading using `import.meta.glob`
-
-
-# License
-
-This project is intended for educational and organizational use for BMC IIITDM Jabalpur.
-
----
